@@ -1,3 +1,7 @@
+//EMP5117
+//Winter 2019
+//Assignment-2
+
 public class Book implements Comparable<Book>{
 String author;
 String title;
